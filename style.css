@@ -1,0 +1,12 @@
+button{
+    position: relative;
+    top: 10px;
+    bottom: 0px;
+    left: 50px;
+    background-color: rgb(114, 145, 255);
+    padding: 5px 30px;
+    text-decoration: none;
+    font-size: 1.4rem;
+    border-radius: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

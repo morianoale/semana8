@@ -1,0 +1,14 @@
+body{background-color: ·#eafadd;}
+
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    color: #555555;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
